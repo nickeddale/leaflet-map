@@ -1,0 +1,1 @@
+<?php require("http://overpass-api.de/api/interpreter?data=(rel[type=boundary];rel[type=multipolygon];);out;"); ?>;

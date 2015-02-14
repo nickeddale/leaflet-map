@@ -1,0 +1,17 @@
+//////VARIABLES
+$baseColor: #5f7ebc;
+$accentColor: #4ca0da;
+$splashColor: #f0ce58;
+$splashColor2: #ad8ad2;
+$textColor: #505961;
+$textColorDark: #666666;
+
+$headlineColor: #fff;
+$linkColor: #666666;
+$selectionColor: $accentColor;
+
+$documentBackgroundColor: #f3f3f3;
+
+@import "app/inc/sass/2-base/_base-dir.scss";
+@import "app/inc/sass/_reviewBox.sass";
+@import "app/inc/sass/_region-label.sass";
